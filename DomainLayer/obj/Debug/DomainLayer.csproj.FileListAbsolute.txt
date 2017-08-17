@@ -1,0 +1,15 @@
+c:\users\kishore.ithadi\documents\visual studio 2015\Projects\LMS\DomainLayer\bin\Debug\DomainLayer.dll
+c:\users\kishore.ithadi\documents\visual studio 2015\Projects\LMS\DomainLayer\bin\Debug\DomainLayer.pdb
+c:\users\kishore.ithadi\documents\visual studio 2015\Projects\LMS\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+c:\users\kishore.ithadi\documents\visual studio 2015\Projects\LMS\DomainLayer\obj\Debug\DomainLayer.dll
+c:\users\kishore.ithadi\documents\visual studio 2015\Projects\LMS\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\prem.ambati\Desktop\LMS1.zip\LMS\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\prem.ambati\Desktop\LMS1.zip\LMS\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\prem.ambati\Desktop\LMS1.zip\LMS\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\prem.ambati\Desktop\LMS1.zip\LMS\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\prem.ambati\Desktop\LMS1.zip\LMS\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\bharat.chatakondu\Desktop\LMS\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\bharat.chatakondu\Desktop\LMS\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\bharat.chatakondu\Desktop\LMS\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\bharat.chatakondu\Desktop\LMS\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\bharat.chatakondu\Desktop\LMS\DomainLayer\obj\Debug\DomainLayer.pdb
